@@ -22,6 +22,3 @@ Please feel free to contact kmsdevwork@gmail.com :)<br>
 
 저의 포트폴리오 사이트를 소개합니다.<br>
 https://portfolio.kwakminsang.com/
-<br>
-Let me introduce my portfolio site.<br>
-https://portfolio.kwakminsang.com/<br>
