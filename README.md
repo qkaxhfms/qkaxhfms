@@ -1,11 +1,12 @@
 # Hello Everyone
 
-<br>
 안녕하세요. 👋<br>
-곽민상의 2020년도 github 페이지입니다.<br>
-<br>
+저는 웹 에이전시에서 일을 하고 있는 주니어 프론트엔드 개발자 곽민상이라고 합니다.<br>
+이 페이지는 저의 2020년도 github 페이지입니다.<br>
+
 Hello. 👋<br>
-This is Kwak Min-sang's 2020 github page. <br>
+I'm Kwak Min-sang, a junior front-end developer working for a Web agency. <br>
+This page is my 2020 github page.
 <br>
 
 # Feel free to contact me anytime.
