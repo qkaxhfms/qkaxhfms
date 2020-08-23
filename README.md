@@ -18,12 +18,10 @@ If you want to work with me or have any questions, please join me. 💬<br>
 Please feel free to contact kmsdevwork@gmail.com :)<br>
 <br>
 
-## Portfolio
+# Let me introduce my Portfolio site
 
+저의 포트폴리오 사이트를 소개합니다.<br>
+https://portfolio.kwakminsang.com/
 <br>
+Let me introduce my portfolio site.<br>
 https://portfolio.kwakminsang.com/<br>
-이 사이트는 개인 포트폴리오용 사이트입니다.<br>
-모든 경력은 사실임을 밝힙니다.
-<br>
-This site is for your personal portfolio. <br>
-All careers are true.
