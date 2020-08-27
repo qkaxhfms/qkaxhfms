@@ -1,5 +1,11 @@
 # Hello Everyone
 
+<div align=right>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqkaxhfms&count_bg=%235E6FD3&title_bg=%23555555&icon=&icon_color=%23626262&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
+<br>
+<br>
+
 안녕하세요. 👋<br>
 저는 웹 에이전시에서 일을 하고 있는 주니어 프론트엔드 개발자 곽민상이라고 합니다.<br>
 이 페이지는 저의 2020년도 github 페이지입니다.<br>
