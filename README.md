@@ -13,7 +13,7 @@
 이 페이지는 저의 2020년도 GITHUB페이지이며, 웹 프론트엔드의 전반적인 지식 탐구를 위해 계속 업로드되고 있습니다.<br>
 
 Hello. 👋<br>
-Hello, I am a developer of html markup who works for a web agency.<br>
+I am a developer of html markup who works for a web agency.<br>
 This page is my 2020 GITHUB page and is being uploaded continuously to explore the overall knowledge of the web front end.
 <br>
 
