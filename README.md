@@ -9,18 +9,18 @@
 # Hello Everyone
 
 안녕하세요. 👋<br>
-저는 웹 에이전시에서 일을 하고 있는 html 마크업 개발자 입니다.<br>
-이 페이지는 저의 2020년도 GITHUB페이지이며, 웹 프론트엔드의 전반적인 지식 탐구를 위해 계속 업로드되고 있습니다.<br>
+저는 한국에서 일을 하고 있는 html 마크업 개발자 입니다.<br>
+이 페이지는 저의 2020년도 GitHub 페이지이며, 웹 프론트엔드의 전반적인 지식 탐구를 위해 계속 업로드되고 있습니다.<br>
 
 Hello. 👋<br>
-I am a developer of html markup who works for a web agency.<br>
+I am a html markup developer working in Korea.<br>
 This page is my 2020 GITHUB page and is being uploaded continuously to explore the overall knowledge of the web front end.
 <br>
 
 # Feel free to contact me anytime.
 
 저와 같이 일하고 싶거나 궁금한 것이 있으시다면 💬<br>
-언제든지 kmsdevwork@gmail.com으로 연락주세요 :)
+언제든지 kmsdevwork@gmail.com으로 연락주세요 :)<br>
 <br>
 If you want to work with me or have any questions, please join me. 💬<br>
 Please feel free to contact kmsdevwork@gmail.com :)<br>
