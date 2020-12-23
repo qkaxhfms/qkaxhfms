@@ -10,10 +10,11 @@ This page is my 2020 GITHUB page and is being uploaded continuously to explore t
 <br>
 
 <p>
-    <a>
-    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqkaxhfms&count_bg=%235E6FD3&title_bg=%23555555&icon=&icon_color=%23626262&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-    </a>
-    <a href="/docs/readme_kr.md">한국어</a>
+<div>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqkaxhfms&count_bg=%235E6FD3&title_bg=%23555555&icon=&icon_color=%23626262&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
 
 </p>
 <br>
