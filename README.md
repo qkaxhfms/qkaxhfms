@@ -1,4 +1,4 @@
-# Hello Everyone
+## Hello Everyone
 
 안녕하세요. 👋<br>
 저는 한국에서 일을 하고 있는 주니어 프론트엔드 개발자 입니다.<br>
@@ -19,7 +19,7 @@ This page is my 2020 GITHUB page and is being uploaded continuously to explore t
 </p>
 <br>
 
-# Feel free to contact me anytime.
+## Feel free to contact me anytime.
 
 저와 같이 일하고 싶거나 궁금한 것이 있으시다면 💬<br>
 언제든지 kmsdevwork@gmail.com으로 연락주세요 :)<br>
@@ -28,7 +28,7 @@ If you want to work with me or have any questions, please join me. 💬<br>
 Please feel free to contact kmsdevwork@gmail.com :)<br>
 <br>
 
-# Let me introduce my Portfolio & Overview site
+## Introduce my Portfolio & Overview site
 
 저의 포트폴리오 사이트를 소개합니다.<br>
 https://portfolio.kwakminsang.com/
