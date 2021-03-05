@@ -1,12 +1,8 @@
-<p align="right;">
-
-<span>
+<div align="right">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqkaxhfms&count_bg=%235E6FD3&title_bg=%23555555&icon=&icon_color=%23626262&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</span>
-
-</p>
+</div>
 
 <h2> 안녕하세요. 👋<br>
 저는 한국에서 일을 하고 있는 주니어 프론트엔드 개발자 입니다.<br>
