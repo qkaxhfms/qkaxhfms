@@ -1,3 +1,13 @@
+<p style="text-align:right;">
+    <a style="inline-block" href="mailto:kmsdevwork@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/></a>
+
+<span>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqkaxhfms&count_bg=%235E6FD3&title_bg=%23555555&icon=&icon_color=%23626262&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</span>
+</p>
+
 <h2> 안녕하세요. 👋<br>
 저는 한국에서 일을 하고 있는 주니어 프론트엔드 개발자 입니다.<br>
 </h2>
@@ -15,16 +25,7 @@
 
 <p>
     <a style="inline-block" href="mailto:kmsdevwork@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/></a>
-
-<span>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqkaxhfms&count_bg=%235E6FD3&title_bg=%23555555&icon=&icon_color=%23626262&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</span>
 </p>
-
-<a href="mailto:kmsdevwork@gmail.com">Send Email</a><br>
-<a href="https://portfolio.kwakminsang.com/">Portfolio / Overview</a>
 
 ## DEV
 
