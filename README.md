@@ -6,21 +6,22 @@
 <p>더 좋은 코드를 개선하고 설계하기 위해 시간을 내어 개발에 필요하다고 생각하는 개념과 관련 지식을 Github에 공유하고 있습니다.</p>
 
 <div>
-    <a style="inline-block" href="mailto:kmsdevwork@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/></a>
-
-<div style="display:inline-block">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqkaxhfms&count_bg=%235E6FD3&title_bg=%23555555&icon=&icon_color=%23626262&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
-</div>
-
-<div>
 이 페이지는 저의 2021년도 GitHub 페이지이며,<br>
 더 좋은 코드를 개선하고 설계하기 위해 시간을 내어 개발에 필요하다고 생각하는 개념과 관련 지식을 Github에 공유하고 있습니다.<br>
 저와 같이 일하고 싶거나 궁금한 것이 있으시다면 언제든지 kmsdevwork@gmail.com으로 연락주세요 :)
-/<div>
+<div>
+
+## CONTACT
+
+<p>
+    <a style="inline-block" href="mailto:kmsdevwork@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/></a>
+
+<span>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqkaxhfms&count_bg=%235E6FD3&title_bg=%23555555&icon=&icon_color=%23626262&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</span>
+</p>
 
 <a href="mailto:kmsdevwork@gmail.com">Send Email</a><br>
 <a href="https://portfolio.kwakminsang.com/">Portfolio / Overview</a>
