@@ -1,10 +1,6 @@
 <p align="right;">
 
-<span>
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqkaxhfms&count_bg=%235E6FD3&title_bg=%23555555&icon=&icon_color=%23626262&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</span>
 
 </p>
 
@@ -12,8 +8,7 @@
 저는 한국에서 일을 하고 있는 주니어 프론트엔드 개발자 입니다.<br>
 </h2>
 
-<p>다양한 프로젝트에서 UX 설계 및 구현 업무를 수행한 경험이 있습니다. 현재는 회사 개발 부서에서 UX 개발 업무를 수행하고 있습니다. </p>
-<p>더 좋은 코드를 개선하고 설계하기 위해 시간을 내어 개발에 필요하다고 생각하는 개념과 관련 지식을 Github에 공유하고 있습니다.</p>
+<p>다양한 프로젝트에서 UX 설계 및 구현 업무를 수행한 경험이 있습니다. 현재는 회사 개발 부서에서 UX 개발 업무를 수행하고 있습니다.<br/>더 좋은 코드를 개선하고 설계하기 위해 시간을 내어 개발에 필요하다고 생각하는 개념과 관련 지식을 Github에 공유하고 있습니다.</p>
 
 <div>
 이 페이지는 저의 2021년도 GitHub 페이지이며,<br>
